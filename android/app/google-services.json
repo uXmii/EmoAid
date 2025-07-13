@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "573188538666",
+    "project_id": "emoaid-fc5ce",
+    "storage_bucket": "emoaid-fc5ce.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573188538666:android:36011cf9c3adfc0edede53",
+        "android_client_info": {
+          "package_name": "com.bluethread.emoaid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPkMdGFm30eWKi5cBS4asc4lN81nrbzWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

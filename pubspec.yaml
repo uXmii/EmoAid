@@ -1,0 +1,33 @@
+name: emoaid
+description: AI Mental Health Chat App
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  http: ^1.1.0
+  fl_chart: ^0.68.0
+  shared_preferences: ^2.2.2
+  crypto: ^3.0.3
+  # State Management
+  provider: ^6.1.1
+  # NEW dependencies for BERT RAG integration
+  tflite_flutter: ^0.10.4  # For local ML models
+  vector_math: ^2.1.4      # For vector operations
+  firebase_core: ^2.30.0
+  firebase_auth: ^4.19.1
+  cloud_firestore: ^4.15.3
+  
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
