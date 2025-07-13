@@ -61,16 +61,16 @@ EmoAid delivers AI-driven emotional support through a cross-platform Flutter app
 ---
 ## Snapshots
 
+<img width="1537" height="775" alt="Screenshot 2025-06-25 131756" src="https://github.com/user-attachments/assets/05a2bf2e-1fd6-4755-b77c-93cc60f3b768" />
+
 <img width="1892" height="880" alt="Screenshot 2025-06-25 131904" src="https://github.com/user-attachments/assets/13148a0a-009c-46be-b108-bceffc8bb76c" />
 
 <img width="1901" height="868" alt="Screenshot 2025-06-25 132131" src="https://github.com/user-attachments/assets/ecc4d8bd-38d6-4d9f-825b-2ee1d8263ff6" />
 <img width="1904" height="870" alt="Screenshot 2025-06-25 132421" src="https://github.com/user-attachments/assets/5c0575df-aae6-4ff4-9d8a-6608911c975e" />
-<img width="1904" height="860" alt="Screenshot 2025-06-25 133627" src="https://github.com/user-attachments/assets/f96dcc4c-21b0-4644-b126-bbf504d561d4" />
-<img width="1904" height="860" alt="Screenshot 2025-06-25 133627" src="https://github.com/user-attachments/assets/bb65a1f5-6a75-4379-ac24-7de2a8acf258" />
+
 <img width="1868" height="866" alt="Screenshot 2025-06-25 133707" src="https://github.com/user-attachments/assets/f4c0ac64-5c87-40f0-9489-867787f6a30e" />
 <img width="1912" height="851" alt="Screenshot 2025-06-25 133724" src="https://github.com/user-attachments/assets/1df4af4a-0a00-49c8-bd06-f279292c99b6" />
 <img width="1909" height="882" alt="Screenshot 2025-06-25 133305" src="https://github.com/user-attachments/assets/bab5a68d-77c8-4049-97e7-bc1bc74a4a2d" />
-<img width="1871" height="868" alt="Screenshot 2025-06-25 133101" src="https://github.com/user-attachments/assets/4d848f4d-502f-4d73-8f3f-00d4ea94cab2" />
 
 
 
