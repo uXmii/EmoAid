@@ -60,16 +60,19 @@ EmoAid delivers AI-driven emotional support through a cross-platform Flutter app
 
 ---
 ## Snapshots
-<img width="540" height="1060" alt="Screenshot 2025-07-02 100916" src="https://github.com/user-attachments/assets/4b791869-ccda-47b0-8929-fd3d1164c205" />
-<img width="564" height="1045" alt="Screenshot 2025-07-02 101031" src="https://github.com/user-attachments/assets/6c989311-79e1-4e9d-b38d-7e1ea5405aad" />
-<img width="529" height="1061" alt="Screenshot 2025-07-02 101312" src="https://github.com/user-attachments/assets/da7c5dad-fa6f-43e4-b7f2-5a5fd21f5710" />
-<img width="524" height="797" alt="Screenshot 2025-07-02 101337" src="https://github.com/user-attachments/assets/9d7f9e94-a7d6-4714-87d9-fa56b6a66c39" />
-<img width="531" height="1053" alt="Screenshot 2025-07-02 101159" src="https://github.com/user-attachments/assets/5e640cdc-98d4-4b10-a167-4342fc4c7256" />
-<img width="230" height="421" alt="image" src="https://github.com/user-attachments/assets/219a4336-2b50-4adb-b208-eb589e6bb6e2" />
-<img width="222" height="430" alt="image" src="https://github.com/user-attachments/assets/77b53af5-b360-4289-969c-de1ec0bb3460" />
-<img width="216" height="401" alt="image" src="https://github.com/user-attachments/assets/d9c61710-a2e0-488c-b023-75e9f6e49f75" />
-<img width="205" height="420" alt="image" src="https://github.com/user-attachments/assets/40ea6871-dd3c-4422-a5d3-f2360b6d39ba" />
-<img width="216" height="416" alt="image" src="https://github.com/user-attachments/assets/12f520bc-945f-472c-92b6-04f4943cb521" />
+
+<img width="1892" height="880" alt="Screenshot 2025-06-25 131904" src="https://github.com/user-attachments/assets/13148a0a-009c-46be-b108-bceffc8bb76c" />
+
+<img width="1901" height="868" alt="Screenshot 2025-06-25 132131" src="https://github.com/user-attachments/assets/ecc4d8bd-38d6-4d9f-825b-2ee1d8263ff6" />
+<img width="1904" height="870" alt="Screenshot 2025-06-25 132421" src="https://github.com/user-attachments/assets/5c0575df-aae6-4ff4-9d8a-6608911c975e" />
+<img width="1904" height="860" alt="Screenshot 2025-06-25 133627" src="https://github.com/user-attachments/assets/f96dcc4c-21b0-4644-b126-bbf504d561d4" />
+<img width="1904" height="860" alt="Screenshot 2025-06-25 133627" src="https://github.com/user-attachments/assets/bb65a1f5-6a75-4379-ac24-7de2a8acf258" />
+<img width="1868" height="866" alt="Screenshot 2025-06-25 133707" src="https://github.com/user-attachments/assets/f4c0ac64-5c87-40f0-9489-867787f6a30e" />
+<img width="1912" height="851" alt="Screenshot 2025-06-25 133724" src="https://github.com/user-attachments/assets/1df4af4a-0a00-49c8-bd06-f279292c99b6" />
+<img width="1909" height="882" alt="Screenshot 2025-06-25 133305" src="https://github.com/user-attachments/assets/bab5a68d-77c8-4049-97e7-bc1bc74a4a2d" />
+<img width="1871" height="868" alt="Screenshot 2025-06-25 133101" src="https://github.com/user-attachments/assets/4d848f4d-502f-4d73-8f3f-00d4ea94cab2" />
+
+
 
 
 
