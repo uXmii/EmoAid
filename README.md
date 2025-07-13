@@ -51,6 +51,28 @@ EmoAid delivers AI-driven emotional support through a cross-platform Flutter app
 
 ---
 
+## 🧰 Tech Stack
+
+| Category             | Technologies Used                                                                 |
+|----------------------|-----------------------------------------------------------------------------------|
+| **Frontend**         | Flutter, Dart                                                                     |
+| **Mobile Deployment**| Android APK (`flutter build apk`), Play Store-ready architecture                  |
+| **Backend**          | Flask (Python REST API), Firebase Firestore, Firebase Auth                        |
+| **Cloud & Realtime** | Firebase Realtime Database, Firebase Cloud Functions (for future scalability)     |
+| **Authentication**   | Firebase Email/Password Auth                                                      |
+| **AI/ML Pipeline**   | Python, SentenceTransformers (`all-MiniLM-L6-v2`), FAISS, NumPy, Scikit-learn     |
+| **NLP & LLM**        | OpenAI GPT-4, LangChain, Groq (LLM inference), Cosine Similarity Matching         |
+| **RAG System**       | LangChain + FAISS Vector DB + Prompt Engineering + Clinical Document Embeddings   |
+| **Analytics**        | Pandas, Matplotlib (real-time visualizations integrated into app)                 |
+| **CI/CD**            | GitHub Actions (planned), local build pipeline for APK generation and signing     |
+| **Version Control**  | Git & GitHub (clean history with secrets removed, public-safe)                    |
+| **Security & Privacy** | Firebase Auth, Firestore Rules, offline-first sync with encrypted local storage  |
+
+
+
+
+---
+
 ##  Analytics Dashboard
 
 - **Emotion Radar**: Weekly visualizations of dominant emotional categories
@@ -81,5 +103,3 @@ EmoAid delivers AI-driven emotional support through a cross-platform Flutter app
 - Secure authentication via Firebase Auth
 - Per-user data isolation using Firestore security rules
 - Offline-first architecture with queued sync on reconnection
-
->>>>>>> cd98969eac168e93973c314d7f6468ce97f5c0d3
